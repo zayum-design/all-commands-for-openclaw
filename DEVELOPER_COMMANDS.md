@@ -526,8 +526,6 @@ pnpm dev devices list --url ws://127.0.0.1:19001
 # 正确：使用 --url 并提供 token
 pnpm dev devices list --url ws://127.0.0.1:19001 --token <your-gateway-token>
 
-pnpm dev devices list --url ws://127.0.0.1:19001  --token fe4a818e2b9815678166ad18f2dcb604f7673e6ab6e027f6
-
 # 正确：使用 --url 并提供密码
 pnpm dev devices list --url ws://127.0.0.1:19001 --password <your-password>
 ```
