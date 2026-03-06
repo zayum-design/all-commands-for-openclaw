@@ -207,3 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 github-local.md
+
+# macOS
+.DS_Store
